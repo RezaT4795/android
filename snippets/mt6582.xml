@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-
-  <remote name="mt6582" fetch="git://github.com/" />
-  <project path="device/mediatek/mt6582" name="RezaT4795/android_device_mediatek_mt6582" remote="mt6582" revision="master"/>
-  <project path="vendor/mediatek/mt6582" name="RezaT4795/android_vendor_mediatek_mt6582" remote="mt6582" revision="master"/>
-</manifest>

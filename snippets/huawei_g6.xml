@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="huawei_g6" fetch="git://github.com/" />
+  <project path="device/huawei/g6" name="RezaT4795/android_device_huawei_g6" remote="huawei_g6" revision="master"/>
+  <project path="vendor/huawei/g6" name="RezaT4795/android_vendor_huawei_g6" remote="huawei_g6" revision="master"/>
+  <project path="kernel/huawei/G6U" name="RezaT4795/android_kernel_huawei_g6" remote="huawei_g6" revision="master"/>
+</manifest> 
