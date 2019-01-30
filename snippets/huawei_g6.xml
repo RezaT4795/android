@@ -5,4 +5,5 @@
   <project path="device/huawei/g6" name="RezaT4795/android_device_huawei_g6" remote="huawei_g6" revision="master"/>
   <project path="vendor/huawei/g6" name="RezaT4795/android_vendor_huawei_g6" remote="huawei_g6" revision="master"/>
   <project path="kernel/huawei/G6U" name="RezaT4795/android_kernel_huawei_g6" remote="huawei_g6" revision="master"/>
+  <project path="hardware" name="RezaT4795/android_hardware_huawei_g6" remote="huawei_g6" revision="master"/>
 </manifest> 
